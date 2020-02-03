@@ -7,3 +7,4 @@ all:
 
 clean:
 	@make --no-print-directory -f generic.make TGT=linear_algebra clean
+	@make --no-print-directory -f generic.make TGT=radix clean

@@ -1,6 +1,6 @@
 [submodule "linear_algebra"]
 	path = linear_algebra
-	url = git@github.com:beeperking69/linear_algebra.git
+	url = https://github.com/beeperking69/linear_algebra.git
 [submodule "third_rail"]
 	path = third_rail
-	url = git@github.com:beeperking69/third_rail.git
+	url =  https://github.com/beeperking69/third_rail.git

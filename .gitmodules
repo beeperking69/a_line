@@ -3,4 +3,7 @@
 	url = https://github.com/beeperking69/linear_algebra.git
 [submodule "third_rail"]
 	path = third_rail
-	url =  https://github.com/beeperking69/third_rail.git
+	url = https://github.com/beeperking69/third_rail.git
+[submodule "radix"]
+	path = radix
+	url = https://github.com/beeperking69/radix.git
